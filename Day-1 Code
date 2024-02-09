@@ -6,4 +6,10 @@ len(a)
 a[::-1] --> To print list in reverse order
 dir(a) --> To show what are the functions supported by a list
 
+Project-1 (Pyttsx3)
+Text to Speech
+import pyttsx3
+speak= pyttsx3.init()
+speak.say("Hello I'm chitti, speed 1TH and Memory 1GB")
+speak.runAndWait()
 
