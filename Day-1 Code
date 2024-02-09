@@ -1,1 +1,9 @@
+a=[1,2,3,4,5]
+a.append("Santhosh")
+type(a)
+len(a)
+"Santhosh" in a
+a[::-1] --> To print list in reverse order
+dir(a) --> To show what are the functions supported by a list
+
 
